@@ -1,0 +1,17 @@
+# Log Format
+# ZCZC WEEK# MINUTES LogCode Description
+# LogCode: https://osp4diss.vlsm.org/ETC/LogCodes.txt
+ZCZC W00 05 L01 SCELE/Discord related
+ZCZC W00 10 L14 Assignments #4
+ZCZC W00 100 L02 ZOOM meetings related
+ZCZC W00 10 L11 Assignments #1
+ZCZC W00 10 L12 Assignments #2
+ZCZC W00 10 L13 Assignments #3
+ZCZC W00 60 L73 Gaming
+ZCZC W00 30 L80 Waching Youtube
+ZCZC W00 30 L72 Online Related Job, merchant
+ZCZC W00 20 L83 Pets: feeding, playing
+ZCZC W00 100 L02 ZOOM meetings related
+ZCZC W00 30 L81 Listening Music
+ZCZC W00 60 L73 Gaming
+ZCZC W00 30 L15 Assignments #5
