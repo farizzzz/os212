@@ -2,11 +2,11 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/LogCodes.txt
 ZCZC W00 05 L01 SCELE/Discord related
-ZCZC W00 10 L14 Assignments #4
+ZCZC W00 10 L14 Assignments #04
 ZCZC W00 100 L02 ZOOM meetings related
-ZCZC W00 10 L11 Assignments #1
-ZCZC W00 10 L12 Assignments #2
-ZCZC W00 10 L13 Assignments #3
+ZCZC W00 10 L11 Assignments #01
+ZCZC W00 10 L12 Assignments #02
+ZCZC W00 10 L13 Assignments #03
 ZCZC W00 60 L73 Gaming
 ZCZC W00 30 L80 Waching Youtube
 ZCZC W00 30 L72 Online Related Job, merchant
@@ -14,4 +14,18 @@ ZCZC W00 20 L83 Pets: feeding, playing
 ZCZC W00 100 L02 ZOOM meetings related
 ZCZC W00 30 L81 Listening Music
 ZCZC W00 60 L73 Gaming
-ZCZC W00 30 L15 Assignments #5
+ZCZC W00 30 L15 Assignments #05
+ZCZC W01 05 L05 Quiz related
+ZCZC W01 100 L02 ZOOM meetings related
+ZCZC W01 60 L73 Gaming
+ZCZC W01 30 L72 Online Related job, merchant
+ZCZC W01 60 L70 Studying for other courses
+ZCZC W01 20 L83 Pets: feeding, playing
+ZCZC W01 30 Listening Music
+ZCZC W01 30 L32 Youtube : study
+ZCZC W01 60 L11 Assignments #01
+ZCZC W01 60 L12 Assiignments #02
+ZCZC W01 30 L13 Assignments #03
+ZCZC W01 60 L14 Assignments #04
+ZCZC W01 30 L19 Assignments #09
+ZCZC W01 15 L17 Assignments #07
