@@ -21,7 +21,7 @@ ZCZC W01 60 L73 Gaming
 ZCZC W01 30 L72 Online Related job, merchant
 ZCZC W01 60 L70 Studying for other courses
 ZCZC W01 20 L83 Pets: feeding, playing
-ZCZC W01 30 Listening Music
+ZCZC W01 30 L81 Listening Music
 ZCZC W01 30 L32 Youtube : study
 ZCZC W01 60 L11 Assignments #01
 ZCZC W01 60 L12 Assiignments #02
@@ -29,3 +29,22 @@ ZCZC W01 30 L13 Assignments #03
 ZCZC W01 60 L14 Assignments #04
 ZCZC W01 30 L19 Assignments #09
 ZCZC W01 15 L17 Assignments #07
+ZCZC W02 5 L05 Quiz related
+ZCZC W02 10 L24 Bash, Regex, SED, AWK.
+ZCZC W02 15 L22 Quiz related
+ZCZC W02 100 L02 ZOOM meetings related
+ZCZC W02 30 L81 Listening Music
+ZCZC W02 10 L72 Online Related job, merchant
+ZCZC W02 30 L11 Assignment #01
+ZCZC W02 30 L12 Assignment #02
+ZCZC W02 60 L13 Assignment #03
+ZCZC W02 10 L14 Assignment #04
+ZCZC W02 10 L15 Assignment #05
+ZCZC W02 10 L16 Assignment #06
+ZCZC W02 10 L17 Assignment #07
+ZCZC W02 10 L18 Assignment #08
+ZCZC W02 5 L19 Assignment #09
+ZCZC W02 10 L20 Assignment #10
+ZCZC W02 10 L09 Assignment in General (Assignment 11)
+ZCZC W02 10 L09 Assignment in General (Assignment 13)
+ZCZC W02 10 L09 Assignment in General (Assignment 12)
