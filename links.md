@@ -18,3 +18,9 @@ Link untuk belajar bahasa c melalui website geeksforgeeks.
 
 5. [Youtube Playlist C Programming Neso Academy](https://en.wikipedia.org/wiki/4)<br>
 Playlist youtube untuk belajar bahasa pemrograman C.
+
+6. [PetaniKode : C Pointer](https://www.petanikode.com/c-pointer/)<br>
+Link untuk belajar Pointer dalam bahasa C melalui website Petanikode.
+
+7. [Soal Latihan Kuis Minggu ke-4](https://rms46.vlsm.org/2/197.pdf)<br>
+Kumpulan soal latihan untuk kuis minggu ke-4
