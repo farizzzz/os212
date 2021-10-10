@@ -80,3 +80,15 @@ ZCZC W04  20 L16 Assignment #06
 ZCZC W04  30 L17 Assignment #07
 ZCZC W04  15 L18 Assignment #08
 ZCZC W04  20 L19 Assignment #09
+ZCZC W05 100 L02 Zoom meetings related
+ZCZC W05  20 L11 Assignment #01
+ZCZC W05  30 L12 Assignment #02
+ZCZC W05  30 L13 Assignment #03
+ZCZC W05  50 L72 Online Related job, merchant
+ZCZC W05  60 L73 Gaming
+ZCZC W05  60 L81 Listening Music
+ZCZC W05  30 L70 Studying for other courses
+ZCZC W05  30 L14 Assignment #04
+ZCZC W05  30 L17 Assignment #07
+ZCZC W05  15 L18 Assignment #08
+ZCZC W05  10 L19 Assignment #09
