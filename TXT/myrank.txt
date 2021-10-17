@@ -11,3 +11,6 @@ ZCZC W04 indiradr
 ZCZC W05 irhaml
 ZCZC W05 johaneschristian
 ZCZC W05 ivanphanderson
+ZCZC W06 KenzieKA
+ZCZC W06 johanesrakatn
+ZCZC W06 kanziebub

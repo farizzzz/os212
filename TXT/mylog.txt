@@ -92,3 +92,17 @@ ZCZC W05  30 L14 Assignment #04
 ZCZC W05  30 L17 Assignment #07
 ZCZC W05  15 L18 Assignment #08
 ZCZC W05  10 L19 Assignment #09
+ZCZC W06  20 L22 Quiz Week05
+ZCZC W06  20 L11 Assignment #01
+ZCZC W06  30 L12 Assignment #02
+ZCZC W06  30 L13 Assignment #03
+ZCZC W06  50 L72 Online Related job, merchant
+ZCZC W06  60 L73 Gaming
+ZCZC W06  60 L81 Listening Music
+ZCZC W06  60 L80 Watching Movie
+ZCZC W06  30 L07 Demo related(Demo TP SDA)
+ZCZC W06 150 L70 Studying for other courses
+ZCZC W06  30 L14 Assignment #04
+ZCZC W06  30 L17 Assignment #07
+ZCZC W06  15 L18 Assignment #08
+ZCZC W06  10 L19 Assignment #09
