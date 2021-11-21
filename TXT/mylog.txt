@@ -120,7 +120,7 @@ ZCZC W07  45 L14 Assignment #04
 ZCZC W07  30 L17 Assignment #07  
 ZCZC W07  20 L18 Assignment #08 
 ZCZC W07  15 L19 Assignment #09
-ZCZC W08  20 L22 Quiz Week6
+ZCZC W08  20 L22 Quiz Week7
 ZCZC W08  20 L11 Assignment #01
 ZCZC W08  20 L12 Assignment #02
 ZCZC W08  20 L13 Assignment #03
@@ -135,3 +135,18 @@ ZCZC W08 720 L15 Assignment #05
 ZCZC W08  20 L18 Assignment #08 
 ZCZC W08  15 L19 Assignment #09
 ZCZC W08  10 L20 Assignment #10
+ZCZC W09 100 L02 Zoom Meetings Related 
+ZCZC W09  20 L11 Assignment #01
+ZCZC W09  20 L12 Assignment #02
+ZCZC W09  20 L13 Assignment #03
+ZCZC W09 100 L73 Gaming
+ZCZC W09 100 L81 Listening Music
+ZCZC W09  60 L72 Online Related job, merchant
+ZCZC W09 150 L70 Studying for other courses
+ZCZC W09  60 L83 Pets : feeding, playing
+ZCZC W09  30 L32 Youtube: Watching Podcast
+ZCZC W09 100 L02 Zoom Meetings Related
+ZCZC W09 720 L14 Assignment #04
+ZCZC W09  20 L17 Assignment #07
+ZCZC W09  15 L18 Assignment #08
+ZCZC W09  10 L19 Assignment #09
